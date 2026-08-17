@@ -1,0 +1,42 @@
+body
+{
+    background-color: beige;
+}
+.main
+{
+    width: 400px;
+    background-color: aquamarine;
+    padding: 16px;
+    margin:auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.main input
+{
+    width: 95%;
+    height: 25px;
+    padding:5px;
+    font-size: 15px;
+}
+.main p
+{
+    margin: 3px;
+    text-align: left;
+    margin-top: 12px;
+}
+.main button
+{
+    width:140px;
+    height: 38px;
+    background-color: rgb(236, 70, 103);
+    color:rgb(0, 0, 0);
+    font-size: 19px;
+    margin-top: 14px;
+    border:none;
+    border-radius: 5px;
+}
+.result p
+{
+    text-align: left;
+    font-size: 20px;
+}
